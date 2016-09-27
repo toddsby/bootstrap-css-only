@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-css-only",
+  "name": "bootstrap-toddsby",
   "description": "[Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO bower depenedency on jQuery.",
   "keywords": [
     "twitter",
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fyockm/bootstrap-css-only.git"
+    "url": "git://github.com/toddsby/bootstrap-css-only.git"
   }
 }
